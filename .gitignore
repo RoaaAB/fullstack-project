@@ -1,18 +1,21 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # Frontend (React)
 frontend/node_modules/
 frontend/.cache/
-frontend/node_modules/.cache/  # Explicitly ignore .cache inside node_modules
 frontend/build/
 frontend/.env*
 frontend/.DS_Store
+frontend/debug.log
+frontend/npm-debug.log*
+frontend/*.js.map
+frontend/*.css.map
 
 # Backend (Flask)
 backend/__pycache__/
 backend/instance/
 backend/.env*
 backend/.DS_Store
+pip-log.txt
+pip-delete-this-directory.txt
 
 # Python-specific files
 *.py[cod]
@@ -33,6 +36,11 @@ venv.bak/
 # Log files
 *.log
 logs/
+debug.log
+
+# Test coverage
+coverage/
+.coverage
 
 # IDE-specific files
 .vscode/
@@ -44,7 +52,6 @@ logs/
 .DS_Store
 
 # Misc
-.DS_Store
 .env.local
 .env.development.local
 .env.test.local
