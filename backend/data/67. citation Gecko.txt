@@ -1,0 +1,23 @@
+Citation Gecko: A Comprehensive Citation Tracking Tool for Literature Reviews
+
+Citation Gecko is a user-friendly citation tracking tool designed to streamline the literature review process for researchers.  It leverages a "seed paper" approach, allowing users to input key papers relevant to their research topic.  The tool then expands outward, identifying and visualizing the citation network surrounding these seed papers. This visual representation of research relationships helps researchers quickly identify key publications and understand the evolution of their chosen research area over time.
+
+Ease of Use and Performance:
+
+Citation Gecko boasts an intuitive interface, making it easily accessible to users of all technical skill levels.  Its performance is fast, providing near-instantaneous results even when processing large datasets.  The tool's speed and simplicity contribute to an efficient workflow.
+
+Cost and Accessibility:
+
+The tool is freely available, eliminating any financial barriers to access. Its web-based design allows for accessibility across a wide range of devices and operating systems (Windows, macOS, Linux, iOS, and Android) using any modern web browser.  This cross-platform compatibility ensures broad reach for researchers.
+
+Integration and Compatibility:
+
+Seamless integration with popular reference management software, such as Zotero and Mendeley, is a key feature.  This allows users to build upon existing libraries and effortlessly import and export data.  Furthermore, its integration with various academic databases enables direct access to full-text articles and citation information.  This consolidated access to information significantly reduces the time spent searching for relevant resources.
+
+Scalability and Limitations:
+
+Citation Gecko is designed to handle various research scales.  Users can begin with a small set of seed papers (5-6) or significantly expand their input. The tool dynamically adjusts to the size and complexity of the resulting citation network, offering consistent performance regardless of the dataset's size.  However, some limitations exist.  The tool’s functionality relies heavily on the initial selection of seed papers.  An inadequate or biased seed paper selection can lead to incomplete or skewed results.  Additionally, while the visualization feature is beneficial,  it can potentially lead to information overload, particularly with extensive citation networks.  The tool’s algorithms, like all algorithms, have inherent limitations, and may not capture all relevant publications. Lastly, limited session management may present a minor inconvenience for users working across multiple sessions.
+
+AI Capabilities:
+
+Citation Gecko is not powered by artificial intelligence. Its functionality is based on established algorithms for citation tracking and network visualization.

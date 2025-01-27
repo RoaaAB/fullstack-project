@@ -1,0 +1,15 @@
+Zoom: A Comprehensive Video Conferencing Platform for Research Dissemination
+
+Zoom is a widely used video conferencing platform facilitating online meetings, webinars, and virtual collaboration across diverse sectors, including research.  Its popularity stems from its versatility and accessibility.
+
+Ease of Use and Performance: Zoom boasts a user-friendly interface, simplifying the process of joining and hosting meetings.  While the core functionalities are intuitive, advanced features such as webinar hosting and breakout rooms might require some initial guidance.  Performance-wise, Zoom generally delivers reliable high-quality video and audio with efficient screen sharing and minimal latency. However, the effectiveness hinges heavily on a robust internet connection; poor connectivity can significantly impact performance.
+
+Cost and Features:  Zoom offers a tiered pricing structure. A free plan is available, but it limits group meetings to 40 minutes. Paid plans, namely Pro ($14.99/month/host), Business ($19.99/month/host), and Enterprise (custom pricing), offer extended meeting durations, increased participant limits, enhanced administrative controls, and cloud storage.  The free version's limitations necessitate careful consideration of the chosen plan based on research needs and budget.
+
+Integrations and Compatibility: Zoom seamlessly integrates with a multitude of platforms, including Microsoft Teams, Slack, Google Workspace, Salesforce, and various educational tools such as Moodle. This broad integration enhances workflow efficiency by connecting Zoom with other commonly used research applications.  The platform's compatibility extends across major operating systems (Windows, macOS, Linux) and devices (iOS, Android, desktop), ensuring wide accessibility.
+
+Scalability: Zoom's scalability is a significant advantage. It caters effectively to individual researchers, small research teams, and large organizations, supporting meetings with up to 1,000 participants and webinars accommodating up to 10,000 attendees. This makes it suitable for various dissemination activities, from small group discussions to large-scale conference presentations.
+
+Limitations:  While Zoom offers many advantages, several limitations exist.  The free plan's restrictions can be a constraint for extensive use.  Furthermore, the cost of advanced plans can be substantial, particularly for individual researchers or smaller research groups with limited budgets.  Finally, Zoom's reliance on a strong internet connection means performance can suffer in areas with unreliable internet access.
+
+AI Capabilities: Zoom is not currently an AI-powered tool.  It does not incorporate AI functionalities for tasks such as transcription, automated summarization, or real-time translation.

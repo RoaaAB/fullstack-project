@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.abd9b2ed.js",
+    "static/js/151.febc01f4.chunk.js": "/static/js/151.febc01f4.chunk.js",
+    "static/media/pexels-ron-lach-9783353.jpg": "/static/media/pexels-ron-lach-9783353.ee9a26541f09c8fc886e.jpg",
+    "static/media/pexels-anete-lusina-4792285.jpg": "/static/media/pexels-anete-lusina-4792285.a6b96bc9167ee192d5d4.jpg",
+    "static/media/compare-5201278_1280.jpg": "/static/media/compare-5201278_1280.bb0fa4559cb3507b3fe9.jpg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.abd9b2ed.js.map": "/static/js/main.abd9b2ed.js.map",
+    "151.febc01f4.chunk.js.map": "/static/js/151.febc01f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.abd9b2ed.js"
+  ]
+}

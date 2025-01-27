@@ -1,0 +1,57 @@
+Runn: Real-time Resource Management and Forecasting Platform
+
+Runn is a real-time resource management platform designed to streamline resource scheduling, allocation, and forecasting.  It offers a powerful solution for organizations needing robust resource management capabilities, particularly those with complex project requirements and large teams.  Its core functionality centers around providing real-time visibility into team availability and project needs, enabling more accurate cost forecasting and efficient resource allocation.
+
+Detailed Features and Capabilities:
+
+Resource Management: Runn excels at resource scheduling and allocation.  It allows users to easily visualize team availability, assign resources to projects, and track utilization rates.  The platform's real-time updates ensure that scheduling decisions are always based on the most current information.
+
+Time Tracking:  Integrated time tracking capabilities provide accurate data for resource allocation and cost forecasting.  This ensures that project timelines are realistic and budgets are managed effectively.
+
+Forecasting:  Runn's forecasting features enable accurate predictions of project costs and resource needs. This helps in proactive planning and prevents over-allocation or under-allocation of resources.
+
+Streamlined Workflows:  The platform simplifies the process of allocating resources, leading to improved team utilization and reduced project delays.
+
+Integrations: Runn boasts a wide range of integrations to enhance its functionality and streamline workflows.  These integrations include:
+
+* Slack: For seamless communication and updates.
+* Google Calendar and Microsoft Outlook:  For scheduling and calendar synchronization.
+* APIs: For custom integrations with other applications.
+* Several HR tools for importing personnel details and time-off information: AlexisHR, BambooHR, CharlieHR, ADP Workforce Now, Factorial, Freshteam, Gusto, and HR Cloud.
+
+
+Platform Compatibility and Scalability:
+
+Runn is compatible with a range of platforms, including:
+
+* Windows
+* macOS
+* Web browsers
+
+It also offers scalability to accommodate growing team sizes and increasingly complex project needs.
+
+Advantages:
+
+* Excellent resource management capabilities:  Provides comprehensive tools for scheduling, allocation, and forecasting.
+* Real-time visibility: Offers up-to-the-minute insights into resource availability and project demands.
+* Accurate cost forecasting: Enables better budget management and proactive planning.
+* Streamlined resource allocation: Simplifies the resource allocation process for improved efficiency.
+* Easy to use interface: The platform is designed for user-friendliness.
+* Fast performance:  The platform delivers quick response times and efficient processing.
+
+
+Disadvantages:
+
+* Limited Project Management Features:  Runn focuses primarily on resource management.  It lacks the breadth of project management capabilities found in dedicated project management software.
+* Potential High Cost: The pricing structure may be expensive, particularly for large teams or organizations with extensive resource management needs.
+* Niche Application:  May not be suitable for smaller teams or those with less complex project requirements; its benefits are most evident in scenarios requiring sophisticated resource management.
+
+
+Pricing:
+
+Runn offers a free plan with paid tiers for increased functionality and capacity.  Specific pricing details should be obtained directly from Runn.
+
+
+AI Capabilities:
+
+Runn is not currently an AI-powered tool.

@@ -1,0 +1,11 @@
+Connected Papers: A Visual Tool for Exploring Academic Literature
+
+Connected Papers is a free, web-based tool designed to help researchers discover and explore relevant academic papers within their field.  Its unique selling point is its visual approach: it presents research papers as nodes in a graph, connecting them based on co-citation and bibliographic coupling. This allows researchers to quickly identify related works and navigate the academic landscape in an intuitive manner.
+
+The tool's performance is noteworthy, with fast graph generation and accurate connections between papers.  It efficiently processes and displays substantial amounts of academic data, providing a dynamic and responsive user experience.  The interface is highly user-friendly, making it easy for researchers of all technical skill levels to navigate and explore the connections between papers.  This ease of use is a significant advantage.
+
+While Connected Papers offers a powerful visual exploration capability, there are some limitations.  Its reliance on existing data means that it may not include every relevant paper, particularly newer or less-cited works.  Furthermore, its integration capabilities are limited, functioning primarily as a standalone tool. Although it allows export of bibliographic data, it lacks seamless integration with other popular research management software.  It's a web-based platform compatible with all major browsers and offers mobile-friendly responsiveness, although a dedicated mobile app is absent.
+
+In terms of scalability, Connected Papers is best suited for individual researchers or small research teams. While it performs well within its intended scope, it is not designed for large-scale institutional usage where significantly more comprehensive literature coverage may be needed.
+
+Connected Papers leverages AI to power its underlying functionality, allowing it to intelligently connect related papers and generate the visual network.  This AI-powered approach significantly enhances the speed and accuracy of the research exploration process.  Its free access makes it a valuable resource for researchers of all backgrounds and budgets.

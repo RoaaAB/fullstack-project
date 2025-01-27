@@ -1,0 +1,37 @@
+Unpaywall: A Browser Extension for Accessing Open-Access Scholarly Articles
+
+Unpaywall is a browser extension designed to provide researchers with free and legal access to open-access versions of scholarly articles.  It seamlessly integrates with popular web browsers, enhancing the research workflow by identifying and linking to freely available versions of articles encountered during literature reviews.
+
+Detailed Features and Functionality:
+
+Unpaywall's core functionality centers on its ability to detect whether an article has an open-access version available online. When a user visits a webpage containing a paywalled article, the extension automatically searches various open-access repositories and databases to locate a free counterpart. If found, it presents a clear link to the open-access version, allowing the user to access the article without paying subscription fees.
+
+Advantages:
+
+* Free and Legal Access:  Unpaywall provides free access to articles, adhering to copyright laws and the principles of open access. This significantly reduces the financial burden on researchers and institutions.
+
+* Seamless Integration: The browser extension integrates directly into the user's workflow, providing instant access checks without requiring users to leave the current webpage or navigate to separate databases.
+
+* Support for the Open Access Movement: By promoting the use of open-access resources, Unpaywall contributes to the broader goal of making scholarly information freely available to everyone.
+
+* Broad Compatibility: The extension is compatible with major web browsers (Chrome, Firefox, etc.) and various operating systems (Windows, macOS, Linux), ensuring accessibility to a wide range of users.  It also integrates with several academic tools and reference managers like Zotero. This interoperability streamlines the research process, enabling efficient organization and management of research materials. Its integration with institutional access tools further enhances article availability.
+
+Limitations:
+
+* Incomplete Coverage:  Not all open-access articles are indexed or immediately accessible through Unpaywall. The database coverage is constantly expanding, but some articles may still require searching through individual repositories.
+
+* Potential Access Delays: While generally fast, locating and linking to an open-access version might involve a short delay, depending on the availability and indexing of the article.
+
+* Dependence on Repository Compliance:  The effectiveness of Unpaywall relies on the compliance and proper indexing of open-access articles within participating repositories.  Inaccurate or incomplete metadata within these repositories might hinder the extension's ability to identify open-access versions.
+
+Ease of Use and Performance:
+
+Unpaywall is designed to be user-friendly.  Its functionality is straightforward and requires minimal interaction from the user.  Performance is generally fast, with quick identification of open-access versions.
+
+Cost and Scalability:
+
+While primarily free to use, Unpaywall indicates that it may offer a paid version with additional features (details not specified). It is characterized by a scalable infrastructure, capable of handling a growing number of users and articles.
+
+AI Capabilities:
+
+Unpaywall does not currently utilize AI-powered functionalities in its core operation.
