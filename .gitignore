@@ -3,6 +3,7 @@
 # Frontend (React)
 frontend/node_modules/
 frontend/.cache/
+frontend/node_modules/.cache/  # Explicitly ignore .cache inside node_modules
 frontend/build/
 frontend/.env*
 frontend/.DS_Store
