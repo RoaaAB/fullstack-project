@@ -365,5 +365,10 @@ if __name__ == "__main__":
     # Create feedback database and table
     create_feedback_db()
 
-    # Start the Flask app
-    app.run(debug=os.getenv("DEBUG", "False").lower() == "true", port=int(os.getenv("PORT", 8000)), host="0.0.0.0", threaded=True)
+    # Start the Flask app with Render's assigned port
+    app.run(
+        debug=os.getenv("DEBUG", "False").lower() == "true", 
+        port=int(os.getenv("PORT", 8000)),  # You can keep this for local, but Render will override it
+        host="0.0.0.0",  # Ensure your app is accessible outside of localhost
+        threaded=True
+    )
