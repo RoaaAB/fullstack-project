@@ -37,7 +37,7 @@ except Exception as e:
 app = Flask(__name__)
 
 # Enable CORS for all routes, allowing requests from http://localhost:3000
-CORS(app, origins=os.getenv("FRONTEND_URL", "http://localhost:3000"))
+CORS(app, origins=os.getenv("FRONTEND_URL", "fullstack-project-drab.vercel.app"))
 
 # Directory for data files
 directory = "./data"
