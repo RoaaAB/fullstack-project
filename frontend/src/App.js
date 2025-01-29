@@ -42,7 +42,7 @@ function App() {
     const fetchPythonData = async () => {
       if (searchTerm.trim() === "") return; // Prevent request if searchTerm is empty
       try {
-        const response = await axios.post("https://recommendation-system-aqbb.onrender.com", {
+        const response = await axios.post("https://recommendation-system-aqbb.onrender.com/get_recommendations", {
           query: searchTerm,  // Provide the search term
           top_n: 3            // Optional, adjust as needed
         });

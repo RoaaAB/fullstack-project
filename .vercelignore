@@ -1,5 +1,5 @@
 backend/
+node_modules/
 error.log
 user_feedback.db
-node_modules/
 .git
