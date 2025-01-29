@@ -21,7 +21,7 @@ const Recommendations = () => {
     const fetchData = async () => {
       try {
         console.log("Fetching data with query:", searchTerm);
-        const response = await axios.post("http://localhost:8000/get_recommendations", { query: searchTerm });
+        const response = await axios.post("https://recommendation-system-aqbb.onrender.com", { query: searchTerm });
         console.log("Response from backend:", response.data);
         setToolData(response.data);
       } catch (err) {
