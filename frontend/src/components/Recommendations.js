@@ -21,7 +21,7 @@ const Recommendations = () => {
     const fetchData = async () => {
       try {
         console.log("Fetching data with query:", searchTerm);
-        const response = await axios.post("https://recommendation-system-aqbb.onrender.com", { query: searchTerm });
+        const response = await axios.post("https://recommendation-system-aqbb.onrender.com/get_recommendations", { query: searchTerm });
         console.log("Response from backend:", response.data);
         setToolData(response.data);
       } catch (err) {
@@ -38,7 +38,7 @@ const Recommendations = () => {
   const handleSubmitFeedback = async () => {
     try {
       console.log("Submitting feedback:", feedback, feedbackMessage);
-      const response = await axios.post("http://localhost:8000/collect_feedback", {
+      const response = await axios.post("https://recommendation-system-aqbb.onrender.com/collect_feedback", {
         rating: feedback,
         comments: feedbackMessage,
       });
